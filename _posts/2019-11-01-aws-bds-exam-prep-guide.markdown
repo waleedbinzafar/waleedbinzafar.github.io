@@ -159,7 +159,7 @@ The [documentation](http://aws.amazon.com/documentation) will be your best frien
 On the AWS training website, you can find a bunch of free digital learning material. This material is officially produced with the test in mind, and hence is high quality. Highly recommended to go through this before attempting the exam.
 
 #### Data Analytics Fundamentals: 
-This course teaches you about the right kind of 
+This course teaches you about the basics of Big Data and the AWS infrastructure that you can use to address the problems of Big Data. This course is very basic, and I would recommend this only if you are unfamiliar with the ABC of Big Data. Furthermore, it does not comprehensively go over all the services that we need to know for the exam, so not a very high recommendation for this course.
 The course is available [here](https://www.aws.training/learningobject/wbc?id=35364).
 
 #### Exam Readiness: AWS Big Data - Specialty (Digital): 
