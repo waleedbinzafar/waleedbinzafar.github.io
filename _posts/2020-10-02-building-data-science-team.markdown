@@ -22,7 +22,7 @@ There is an excellent [article](https://hackernoon.com/the-ai-hierarchy-of-needs
 
 ## The Full Stack Data Scientist
 
-From data collection to the creation of Deep/Machine Learning models, the data scinece process entails a variety of work to be performed, illustrated as tiers in this pyramid. A person who does all the work across the spectrum, can be called a **Full Stack Data Scientist**. 
+From data collection to the creation of Deep/Machine Learning models, the data science process entails a variety of work to be performed, illustrated as tiers in this pyramid. A person who does all the work across the spectrum, can be called a **Full Stack Data Scientist**. 
 
 Considered rare and sometimes referred to as Unicorn Data Scientists, Full Stack Data Scientists can be found in startups and nascent small firms who cannot hire specialized resources for each tier due to resource constraints. However, such candidates can be quite rare, and can be a bit on the expensive side, so it's not pragmatic for any firm to just be hiring Full Stack Data Scientists. Besides, none of the candidates I mentioned above meet the criteria of a Full Stack Data Scientist, so lets break down the tiers into roles.
 
