@@ -14,7 +14,7 @@ The other day, I was interviewing candidates for a Machine Learning role, specif
 Now all candidates have distinctive skills which do overlap a little, but they all call themselves Data Scientists. This made me think if there should be a better nomenclature to tell them apart. In terms of skills, there is a somewhat clearer taxonomy, which, for better or for worse, the industry doesn't seem to adhere to, specially in the somewhat evolving market of Pakistan.
 
 ## The Data Hierarchy of Needs
-To talk about this taxonomy, let me refer to the data hierarchy of needs:
+To talk about this taxonomy, let me refer to the data hierarchy of needs. Data begins the journey from instrumentation and logging; gets collected, moved and stored; is transformed and experimented with; gets cleaned and analyzed; and eventually it is used to learn models and produce insights to help businesses.
 <!-- <img src="https://hackernoon.com/hn-images/1*7IMev5xslc9FLxr9hHhpFw.png" alt="drawing" width="600"/> -->
 ![Data Science Hierarchy of Needs](https://hackernoon.com/hn-images/1*7IMev5xslc9FLxr9hHhpFw.png){:height="400px"}
 
