@@ -24,14 +24,14 @@ layout: default
     </div>
   </header>
 
-  <!-- <div class="container">
+  <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
 
-        {{ content }} -->
+        {{ content }}
 
         <!-- Home Post List -->
-        <!-- {% for post in site.posts limit : 5 %}
+        {% for post in site.posts limit : 5 %}
 
         <article class="post-preview">
           <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -55,37 +55,12 @@ layout: default
 
         <hr>
 
-        {% endfor %} -->
+        {% endfor %}
 
         <!-- Pager -->
-        <!-- <div class="clearfix">
+        <div class="clearfix">
           <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
         </div>
-
-      </div>
-    </div>
-  </div> -->
-
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
-        <div class="col-lg-12 text-center">
-          <h1>About Me</h1>
-          <!-- <h2 class="section-subheading text-muted">Here are some of the projects that I've worked on.</h2> -->
-        </div>
-        <h3>The business...</h3>
-        <p>I’m a full stack Data Scientist and ML engineer, with my specialty lying in the conception and synthesis of cloud based 
-        data and ML solutions. An ardent practitioner of cloud optimization, I believe the best AI solutions focus as heavily 
-        on the how of their implementation as on the what.</p>
-        <p>
-        <img style='height: 100%; width: 100%; object-fit: contain' src="/img/about-business.png" alt="The business..." /></p>
-                
-        
-        <h3>... and the pleasure</h3><p></p>
-        <p></p>
-        <p>
-        <img style='height: 100%; width: 100%; object-fit: contain' src="/img/about-pleasure.png" alt="... and the pleasure..." /></p>
-        
 
       </div>
     </div>
