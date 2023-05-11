@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "My experience with Google's Recommender AI service"
+title:  "My experience with Google's Recommendations AI service"
 subtitle: "Why a powerful technology's adoption hindered"
 date:   2022-08-08 12:02:00 +0500
 background: '/img/posts/googrecai.png'
 ---
 
-Google's Recommender AI service is a powerful tool that can help businesses personalize their online content, products, and services to meet the unique needs of their customers. This technology uses machine learning algorithms to analyze customer data and make recommendations based on their preferences, behavior, and demographics. While there are many benefits to using Google's Recommender AI service, there are also some potential drawbacks to consider. In this article, I will share my experience with using RecAI, and discuss why we decided not to adopt it.
+Google's Recommendations AI service is a powerful tool that can help businesses personalize their online content, products, and services to meet the unique needs of their customers. This technology uses machine learning algorithms to analyze customer data and make recommendations based on their preferences, behavior, and demographics. While there are many benefits to using Google's Recommendations AI service, there are also some potential drawbacks to consider. In this article, I will share my experience with using RecAI, and discuss why we decided not to adopt it.
 
-I worked with Recommender AI during my time at eBay, starting with the most basic POC. We took an opensource retail dataset, threw it at RecAI, and voila! It gave some qualitatively good recommendations. At first glance, it was too good... 
+I worked with Recommendations AI during my time at eBay, starting with the most basic POC. We took an opensource retail dataset, threw it at RecAI, and voila! It gave some qualitatively good recommendations. At first glance, it was too good... 
 - the GCP portal offered a UI
 - a Python API was available
 - the service was scalable, and could be integrated with BigQuery to handle large scale data
